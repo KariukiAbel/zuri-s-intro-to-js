@@ -1,0 +1,10 @@
+div {
+    margin: 25%, 50%;
+    background-color: skyblue;
+    padding: 20%;
+}
+
+span {
+    font-weight: bolder;
+    font-size: large;
+}
